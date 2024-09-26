@@ -98,33 +98,40 @@ th, td{
             position: static;
         }
     }
-    header{
+.ativo{
+    font-style: bold;
+    background-color: rgb(122, 214, 184);;
+}
+header{
         position: sticky;
         left: 0;
         top: 0;        
-    }
-    header ul{
-        font-size: 24px;
-        width: 100%;    
-        background-color: rgb(97, 170, 146);
-        display: flex;
-        align-self: auto;
-        justify-content: center;
-    }
-    header a:hover{
-        color: rgb(25, 255, 63);
-    }
-    #paulista ul{
-        list-style-type: none;
-        padding: 0;
-    }
-    #paulista li {
-        display: flex;
-        align-items: center;
-        margin: 10px 0;
-    }
-    .naipe-img {    
-        width: 20px;
-        height: 20px;
-        margin-right: 10px;
-    }
+}
+header ul{
+    font-size: 24px;
+    width: 100%;    
+    background-color: rgb(97, 170, 146);
+    display: flex;
+    align-self: auto;
+    justify-content: center;
+}
+header a:hover{
+    color: rgb(25, 255, 63);
+}
+#paulista ul{
+    list-style-type: none;
+    padding: 0;
+}
+#paulista li {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+.naipe-img {    
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+video{
+    width: 75%;
+}
