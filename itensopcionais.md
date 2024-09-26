@@ -7,5 +7,6 @@ Itens opcionais implementados:<br><br>
       (3-6%) Usar flexbox e grid e (5%) Alguns elementos com posicionamento não estático<br><br>
     ![uso do flexblox](prints_itensopcionais/flexbox.png)<br><br>
      (3%) Exibição de um vídeo sobre o tema<br><br>
-    ![video utilizado](prints_itensopcionais/video.png)
-
+    ![video utilizado](prints_itensopcionais/video.png)<br><br>
+     (5%) Fazer o site todo completamente responsive<br><br>
+    ![Site responsivo](prints_itensopcionais/responsivo.png)<br><br>
