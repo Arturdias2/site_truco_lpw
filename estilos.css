@@ -103,6 +103,17 @@ th, td{
     p {
         font-size: 1rem;
     }
+    table {
+        display: block;
+        width: 100%;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
+    th, td {
+        padding: 8px;
+        font-size: 0.9rem;
+    }
 }
 
 @media (max-width: 480px) {
@@ -116,6 +127,13 @@ th, td{
 
     header ul ol a {
         padding: 5px;
+    }
+    th, td {
+        font-size: 0.8rem;
+    }
+
+    table {
+        font-size: 0.8rem;
     }
 }
 .ativo{
