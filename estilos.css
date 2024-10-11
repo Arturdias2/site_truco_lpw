@@ -9,12 +9,11 @@ body{
     background-attachment: fixed;
     font-family: 'Uoltext', sans-serif;
 }
-#img2{
-    float: left;
-    margin: 0em 2em 1em 2em;
+#img2 {
+    max-width: 100%;
+    height: auto;
+    margin: 1em auto;
     display: block;
-    size: 20%;
-    position: relative;
 }
 h1, h2, table{
     text-align: center;
@@ -37,7 +36,8 @@ main{
     background-color: antiquewhite;
     margin: 10% 25% 10% 25%;
     padding: 5%;
-    min-height: 100%;
+    max-width: 1000px;
+    min-width: 320px;
 }
 p{
     clear: left;
