@@ -173,3 +173,14 @@ header a:hover{
 video{
     width: 75%;
 }
+button{
+    background-color: rgba(116, 109, 109, 0.534);
+    border-radius: 90%;
+    height: 10%;
+    font-size: 225%;
+}
+#videoSeletor{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

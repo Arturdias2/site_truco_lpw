@@ -10,3 +10,5 @@ Itens opcionais implementados:<br><br>
     ![video utilizado](prints_itensopcionais/video.png)<br><br>
      (5%) Fazer o site todo completamente responsive<br><br>
     ![Site responsivo](prints_itensopcionais/responsivo.png)<br><br>
+    (3-10%) Criar algo interativo na página usando JavaScript<br><br>
+    ![Javascrpit utilizado](prints_itensopcionais/javascript.png)
